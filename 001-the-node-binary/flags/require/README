@@ -1,0 +1,2 @@
+node -r ./preload.js app.js
+node --require ./preload.js app.js
